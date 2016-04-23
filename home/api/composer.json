@@ -1,0 +1,7 @@
+{
+    "name": "thewebguys/q",
+    "description": "A Predictive and Interactive Chat App",
+    "require": {
+        "google/apiclient": "^1.1"
+    }
+}
